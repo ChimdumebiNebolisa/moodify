@@ -46,3 +46,8 @@ next-env.d.ts
 # OS
 Thumbs.db
 
+# Markdown files (Cursor-generated documentation)
+# Only README.md should be committed unless explicitly requested
+*.md
+!README.md
+
